@@ -120,4 +120,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by **Amoli**
+Made with ❤️ by **Mustafa Ryadh (Spty)**
